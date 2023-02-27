@@ -1,2 +1,1 @@
-# django-sport-news
-# django-sport-news
+Sports news site with Django and Web Scraping
